@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    line-height: normal;
+  }
+
+  :root {
+    /* fonts */
+    --font-sen: Sen;
+    --font-montserrat: Montserrat;
+    --font-literata: Literata;
+    --font-abril-fatface: "Abril Fatface";
+  
+    /* font sizes */
+    --font-size-xl: 20px;
+    --font-size-13xl: 32px;
+    --font-size-9xl: 28px;
+    --font-size-45xl: 64px;
+    --font-size-21xl: 40px;
+    --font-size-base: 16px;
+    --font-size-5xl: 24px;
+    --font-size-lg: 18px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: #fffffe;
+    --color-gray-200: #232946;
+    --color-gray-300: #001e1d;
+    --color-dimgray-100: #707176;
+    --color-dimgray-200: #555;
+    --color-royalblue-100: #2e7ef9;
+    --color-black: #000;
+    --color-darkslategray-100: #424242;
+    --color-darkslategray-200: #2b2c34;
+  
+    /* Paddings */
+    --padding-lg: 18px;
+    --padding-17xl: 36px;
+    --padding-3xs: 10px;
+    --padding-5xl: 24px;
+  
+    /* border radiuses */
+    --br-21xl: 40px;
+    --br-3xs: 10px;
+    --br-5xs: 8px;
+  }
+  
